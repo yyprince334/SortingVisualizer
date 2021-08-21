@@ -1,0 +1,66 @@
+.array-Container {
+    position:absolute;
+    left: 20px;
+    right: 20px;
+
+}
+
+.array-bar {
+    width:2px;
+    background-color: lightgrey;
+    display:inline-block;
+    margin: 0 1px;
+}
+
+.generate {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 50px;
+    background-color:lightslategrey;
+    color: white;
+    width: 250px;
+    height: 25px;
+    border-radius: 4px;
+    border: none;
+}
+
+.mergeButton {
+    margin-left: 140px;
+    margin-right: 40px;
+    background-color:seagreen;
+    color: white;
+    width: 150px;
+    height: 25px;
+    border-radius: 4px;
+    border: none;
+}
+
+.quickButton {
+    margin-right: 40px;
+    background-color: seagreen;
+    color: white;
+    width: 150px;
+    height: 25px;
+    border-radius: 4px;
+    border: none;
+}
+
+.heapButton {
+    margin-right: 40px;
+    background-color: seagreen;
+    color: white;
+    width: 150px;
+    height: 25px;
+    border-radius: 4px;
+    border: none;
+}
+
+.bubbleButton {
+    margin-right: 40px;
+    background-color: seagreen;
+    color: white;
+    width: 150px;
+    height: 25px;
+    border-radius: 4px;
+    border: none;
+}
+
